@@ -5,3 +5,7 @@ states:
         component: meya.text
         properties:
             text: "{{ cms.general.about }}"
+    
+    second:
+        component: say_cms
+        return: true
