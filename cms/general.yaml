@@ -1,0 +1,6 @@
+-   io: output
+    key: about
+    language: en
+    tag: ''
+    type: string
+    value: Hi, I'm CMS content!

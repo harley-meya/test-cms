@@ -1,0 +1,7 @@
+name: hello_world
+states:
+
+    first:
+        component: meya.text
+        properties:
+            text: "{{ cms.general.about }}"
